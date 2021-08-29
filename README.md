@@ -14,7 +14,7 @@ A entrada se encerra quando o jogo termina, ou seja, quando o jogador completa a
 ## Como rodar essa aplicação
 ```bash
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/juhanada/campo-minado-c.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd campo-minado-c
